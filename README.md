@@ -8,7 +8,7 @@ i made the query fast to get the data so that when the user inserts a string the
 I didn't find indication about where or how to use the stations table so i didn't use it for the autocomplete.
   
  # Project structure
-   Kombo-app
+   Kombo_challenge
    |
    |____client
    |
